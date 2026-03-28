@@ -1,3 +1,7 @@
-google-adk
-requests
-mcp
+google-adk[voice]>=0.14.0
+mcp[cli]>=1.0.0
+requests>=2.31.0
+uvicorn>=0.30.0
+starlette>=0.38.0
+sse-starlette>=1.6.0
+python-dotenv>=1.0.1
